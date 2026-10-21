@@ -556,15 +556,15 @@
   "final": null,
   "venue": "FedExForum",
   "proj": {
-   "home_pts": 119.3,
-   "away_pts": 118.5,
-   "total": 237.8,
+   "home_pts": 119.8,
+   "away_pts": 119.0,
+   "total": 238.8,
    "spread": 0.7,
    "home_win_prob": 0.525,
-   "h1_home": 60.0,
-   "h1_away": 58.8,
-   "q1_home": 30.2,
-   "q1_away": 30.5
+   "h1_home": 60.3,
+   "h1_away": 59.1,
+   "q1_home": 30.4,
+   "q1_away": 30.7
   },
   "market": {
    "kalshi": {
@@ -578,7 +578,7 @@
      "away_cover_ask": 51
     },
     "total": {
-     "line": 241.5,
+     "line": 242.5,
      "over_ask": 51,
      "under_ask": 52
     }
@@ -586,7 +586,7 @@
    "sportsbook": {
     "book": "DraftKings",
     "spread": -2.5,
-    "total": 241.5,
+    "total": 242.5,
     "home_ml": "-125",
     "away_ml": "+105"
    }
@@ -634,7 +634,7 @@
    }
   ],
   "edges": [
-   "KXNBATOTAL-26OCT21UTAHMEM-U241.5",
+   "KXNBATOTAL-26OCT21UTAHMEM-U242.5",
    "KXNBASPREAD-26OCT21UTAHMEM-UTAH2.5"
   ]
  },
@@ -766,7 +766,7 @@
    "kalshi": {
     "ml": {
      "home_yes_ask": 79,
-     "away_yes_ask": 24
+     "away_yes_ask": 23
     },
     "spread": {
      "home_line": -10.5,
@@ -783,8 +783,8 @@
     "book": "DraftKings",
     "spread": -10.5,
     "total": 229.5,
-    "home_ml": "-440",
-    "away_ml": "+340"
+    "home_ml": "-455",
+    "away_ml": "+350"
    }
   },
   "injuries": [

@@ -408,10 +408,10 @@
   "backtest_roi_family": 8.6
  },
  {
-  "market_ticker": "KXNBATOTAL-26OCT21UTAHMEM-U241.5",
+  "market_ticker": "KXNBATOTAL-26OCT21UTAHMEM-U242.5",
   "family": "total",
   "game_id": "401909838",
-  "description": "Under 241.5",
+  "description": "Under 242.5",
   "side": "under",
   "model_prob": 0.586,
   "kalshi_price_cents": 52,
