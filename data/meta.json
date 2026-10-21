@@ -1,0 +1,14 @@
+{
+ "generated_utc": "2026-10-21T14:23:02Z",
+ "model_version": "sample-0.1",
+ "season": 2027,
+ "slate_date": "2026-10-21",
+ "sample": true,
+ "bankroll": {
+  "start": 100.0,
+  "current": 112.01,
+  "available": 112.01,
+  "roi_pct": 12.0
+ },
+ "notes": "Real slate, rosters, injury report and sportsbook lines from ESPN; every projection, Kalshi price, bet and backtest number is synthetic until the model goes live."
+}
